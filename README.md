@@ -13,7 +13,7 @@ Currently, `Bomb.js` and `ImageSlider.js` don't contain any code, so if you run
 use these components before they've been written.
 
 So, before we continue, your first task is to create a simple components
-for both `ImageSlider` and `Bomb`:
+for both `ImageSlider` and `Bomb`: 
 
 - In the `src/ImageSlider.js` file, create an `ImageSlider` React component.
 - In the `src/Bomb.js` file, create a `Bomb` React component.
